@@ -33,16 +33,16 @@ Technology has advanced to the point that it can assist people in their daily li
    -Suggested using current: 16-18mA.
    -Luminous Intensity: 150-200mcd.
    
- ###Water level sensor
-    -Working Voltage: DC 3-5V
-    -Working Current: <20mA
-    -Sensor Type: Simulation
-    -Detection Area: 40 mm x 16 mm
-    -Manufacturing Process: FR4 double spray tin
-    -Fixed Hole Size: 3.2 mm
-    -Humanized Design: Half moon sag nonskid treatment
-    -Working Temperature: 10 °C to 30 °C
-    -Work Humidity: 10% to 90% without condensation
-    -Size: 65 mm x 20 mm x 8 mm
-    -Optional Accessories: 3 pin sensor connecting line,Arduino 328 controller,Sensor relay shield
+ ### Water level sensor
+   -Working Voltage: DC 3-5V
+   -Working Current: <20mA
+   -Sensor Type: Simulation
+   -Detection Area: 40 mm x 16 mm
+   -Manufacturing Process: FR4 double spray tin
+   -Fixed Hole Size: 3.2 mm
+   -Humanized Design: Half moon sag nonskid treatment
+   -Working Temperature: 10 °C to 30 °C
+   -Work Humidity: 10% to 90% without condensation
+   -Size: 65 mm x 20 mm x 8 mm
+   -Optional Accessories: 3 pin sensor connecting line,Arduino 328 controller,Sensor relay shield
    
