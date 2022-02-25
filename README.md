@@ -1,9 +1,8 @@
-# water-level-monitoring-system
+# WATER LEVEL MONITORING SYSTEM
 Technology has advanced to the point that it can assist people in their daily lives. Human beings may benefit from this development in a variety of ways. This system is one that monitors the level of water in storage tanks, may monitor progress in levels of river water as well as notify the necessary parties wirelessly on their phones. 
 
-## Objective
- -Check the level of water in tanks or rivers.
- -Notify and alert the necessary parties in case the water is too low or when there is an overflow.
+## OBJECTIVE
+The objective of this project is to develop an automated system for monitoring the level of water in an underground tank with push notification features using the Telegram Bot API. 
 
 ### SYSTEM COMPONENTS
 -ESP 8266 NODEMCU
